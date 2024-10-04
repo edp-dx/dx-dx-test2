@@ -1,0 +1,1 @@
+1. Application dx-test2 has been successfully deployed!!
